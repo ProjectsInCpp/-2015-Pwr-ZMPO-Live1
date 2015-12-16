@@ -1,0 +1,19 @@
+﻿Build started 12/16/2015 4:20:20 PM.
+     1>Project "D:\Clouds\OneDrive\GitHub\-2015-Pwr-ZMPO-Live1\ListCopier\ListCopierLib\ListCopierLib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ListCopierLib.pch" /Fo"Debug\\" /Fd"Debug\ListCopierLib.pdb" /Gd /TP /analyze- /errorReport:prompt ListCopier.cpp
+         ListCopier.cpp
+     1>d:\clouds\onedrive\github\-2015-pwr-zmpo-live1\listcopier\listcopierlib\listcopier.cpp(14): warning C4018: '<': signed/unsigned mismatch
+     1>d:\clouds\onedrive\github\-2015-pwr-zmpo-live1\listcopier\listcopierlib\listcopier.cpp(25): warning C4018: '<': signed/unsigned mismatch
+     1>d:\clouds\onedrive\github\-2015-pwr-zmpo-live1\listcopier\listcopierlib\listcopier.cpp(28): warning C4018: '<': signed/unsigned mismatch
+     1>d:\clouds\onedrive\github\-2015-pwr-zmpo-live1\listcopier\listcopierlib\listcopier.cpp(44): warning C4018: '<': signed/unsigned mismatch
+     1>d:\clouds\onedrive\github\-2015-pwr-zmpo-live1\listcopier\listcopierlib\listcopier.cpp(69): warning C4018: '<': signed/unsigned mismatch
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"D:\Clouds\OneDrive\GitHub\-2015-Pwr-ZMPO-Live1\ListCopier\Debug\ListCopierLib.lib" /NOLOGO Debug\ListCopier.obj
+         Debug\stdafx.obj
+         ListCopierLib.vcxproj -> D:\Clouds\OneDrive\GitHub\-2015-Pwr-ZMPO-Live1\ListCopier\Debug\ListCopierLib.lib
+     1>Done Building Project "D:\Clouds\OneDrive\GitHub\-2015-Pwr-ZMPO-Live1\ListCopier\ListCopierLib\ListCopierLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.90
